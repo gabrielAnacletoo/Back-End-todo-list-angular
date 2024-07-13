@@ -51,7 +51,7 @@ Acesse a API em  http://127.0.0.1:8000/
 
 
 ## Front-End do Projeto
-- **Link para o Front-End:** [Front-Enddo projeto](https://github.com/gabrielAnacletoo/Angular-Todo-list)
+- **Link para o Front-End:** [Front-End do projeto](https://github.com/gabrielAnacletoo/Angular-Todo-list)
 
 
 
