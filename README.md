@@ -56,5 +56,5 @@ Acesse a API em  http://127.0.0.1:8000/
 
 
 ## Contato e Redes Sociais
-- **E-mail:** [seu@email](mailto:gabrielanacleto159@live.com)
+- **E-mail:** [gabrielanacleto159@live.com](mailto:gabrielanacleto159@live.com)
 - **LinkedIn:** [inkedIn](https://www.linkedin.com/in/gabriel-anacletoo/)
